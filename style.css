@@ -1,0 +1,90 @@
+ol {
+    width: 1000;
+}
+
+#couch {
+    width: 350;
+}
+
+#cup {
+    width: 175;
+}
+
+#fan {
+    width: 175;
+}
+
+#headphones {
+    width: 250;
+}
+
+#pen {
+    width: 175;
+}
+
+#phone {
+    width: 200;
+}
+
+#pillow {
+    width: 175;
+}
+
+#shoes {
+    width: 225;
+}
+
+#soap {
+    width: 200;
+}
+
+#bottle {
+    width: 175;
+}
+
+#w {
+    width: 350;
+}
+
+#pen {
+    width: 115;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+#hi {
+    background-color: lightgray;
+    margin: 5px;
+    width: 1000;
+    border-radius: 25px;
+    height: 250;
+}
+
+h5 {
+    background-color: white;
+    border-radius: 25px;
+    align-self: center;
+}
+
+h4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Sofia Sans', sans-serif;;
+}
+
+
+#gl {
+    width: 40;
+}
+
+h3 {
+    color: red;
+    font-family: 'Sofia Sans', sans-serif;
+}
